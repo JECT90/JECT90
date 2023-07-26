@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m @JECT90
+- 👋 Hi, I’m Jose Carvajal an Ecuadorian Developer
 - 🩺💻 I am a person who wants to change technology in health care world
 - My Tech:
 
